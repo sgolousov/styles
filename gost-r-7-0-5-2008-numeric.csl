@@ -3,7 +3,7 @@
   <info>
     <title>Russian GOST R 7.0.5-2008 (numeric, sorted alphabetically)</title>
     <id>http://www.zotero.org/styles/gost-r-7-0-5-2008-numeric</id>
-    <link href="http://www.zotero.org/styles/gost-r-7-0-5-2008-numeric" rel="self"/>
+    <link href="http://www.zotero.org/styles/gost-r-7-0-5-2008-numeric-alpha" rel="self"/>
     <link href="http://protect.gost.ru/document.aspx?control=7&amp;id=173511" rel="documentation"/>
     <author>
       <name>Yurkin Maxim</name>
